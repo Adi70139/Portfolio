@@ -31,7 +31,7 @@ export const ProjectList = [
     description: "Ofcourse i made my own personal portfolio website.",
     tech_stack: "Reactjs, CSS",
     github_url: "https://github.com/Adi70139/Portfolio",
-    demo_url: "https://yet-to-deploy/",
+    demo_url: "https://portfolio-gyxg.onrender.com",
   },
   {
     img: "./assets/Keeper.png",
