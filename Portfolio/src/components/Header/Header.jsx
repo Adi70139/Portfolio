@@ -24,9 +24,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
         <button 
             onClick={() => window.open('./assets/Aditya_Vardhan_Profile.pdf')} 
-            style={{ padding: '15px', cursor: 'pointer', borderRadius:'20px', border:'1px solid darkblue',
-                fontWeight:'bold'
-            }}
+
           >
             Resume
           </button>

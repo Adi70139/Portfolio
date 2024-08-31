@@ -58,6 +58,22 @@ export const NavBtn = styled.nav`
   display: flex;
   align-items: center;
   margin-right: 24px;
+  transition: background-color 0.3s ease; // Optional: smooth transition
+   
+
+  button{
+
+     border:2px solid violet;
+     padding: 15px;
+     cursor: pointer;
+     border-radius:20px;
+     fontWeight: bolder;
+     &:hover {
+       background-color: violet;
+       color:black;
+    }
+  }
+  
 
   @media screen and (max-width: 768px) {
     display: none;
