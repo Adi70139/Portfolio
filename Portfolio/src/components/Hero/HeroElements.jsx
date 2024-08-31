@@ -73,11 +73,16 @@ export const HeroRight = styled.div`
   flex: 1;
   justify-content: center;
   display: flex;
+  
 `;
 
 export const Image = styled.img`
   height: 300px;
   width: auto;
+  border-radius:50px;
+  -webkit-box-shadow: 0px 1px 141px 1px rgba(250,187,250,1);
+  -moz-box-shadow: 0px 1px 141px 1px rgba(250,187,250,1);
+  box-shadow: 0px 1px 141px 1px rgba(250,187,250,1);
 `;
 
 const ScrollAnimation = keyframes`
