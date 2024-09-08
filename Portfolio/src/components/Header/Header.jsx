@@ -23,7 +23,7 @@ const Header = ({ toggle }) => {
         </NavMenu>
         <NavBtn>
         <button 
-            onClick={() => window.open('./assets/Aditya_Vardhan_Profile.pdf')} 
+            onClick={() => window.open('./assets/Aditya_Profile.pdf')} 
 
           >
             Resume
