@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://freezer-com.onrender.com",
   },
   {
-    img: "./assets/FreezerBurns.png",
+    img: "./assets/prescripto.png",
     title: "Prescripto",
     description: "Prescripto is an application where we can book an appointment for a doctor and do even more.",
     tech_stack: "React, Javascript, Node.js, Express.js, CSS",
