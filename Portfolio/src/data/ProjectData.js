@@ -9,6 +9,14 @@ export const ProjectList = [
     demo_url: "https://freezer-com.onrender.com",
   },
   {
+    img: "./assets/FreezerBurns.png",
+    title: "Prescripto",
+    description: "Prescripto is an application where we can book an appointment for a doctor and do even more.",
+    tech_stack: "React, Javascript, Node.js, Express.js, CSS",
+    github_url: "https://github.com/Adi70139/prescripto",
+    demo_url: "https://prescripto-gamma.vercel.app",
+  },
+  {
     img: "./assets/onebox.png",
     title: "Onebox",
     description: "An email dashboard where we can view,delete and reply to emails.",
@@ -24,14 +32,6 @@ export const ProjectList = [
     tech_stack: "React, Javascript, CSS",
     github_url: "https://github.com/Adi70139/Foody",
     demo_url: "https://foody-react.netlify.app",
-  },
-  {
-    img: "./assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, CSS",
-    github_url: "https://github.com/Adi70139/Portfolio",
-    demo_url: "https://portfolio-gyxg.onrender.com",
   },
   {
     img: "./assets/Keeper.png",
