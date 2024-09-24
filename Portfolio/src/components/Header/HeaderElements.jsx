@@ -58,19 +58,16 @@ export const NavBtn = styled.nav`
   display: flex;
   align-items: center;
   margin-right: 24px;
-  transition: background-color 0.3s ease; // Optional: smooth transition
-   
+  transition: background-color 0.3s ease; 
 
   button{
-
-     border:2px solid violet;
+     border:2px solid brown;
      padding: 15px;
      cursor: pointer;
-     border-radius:20px;
+     border-radius:40px;
      fontWeight: bolder;
      &:hover {
-       background-color: violet;
-       color:black;
+       background-color:#D8D2C2;
     }
   }
   

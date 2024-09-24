@@ -13,7 +13,7 @@ function About() {
     <ContactWrapper id="about">
       <div className="Container">
         <div className="SectionTitle">About Me</div>
-        <div className="BigCard">
+        <div className="BigCard" >
           <Image
             src="./assets/Myself.jpg"
             alt="man-svgrepo"

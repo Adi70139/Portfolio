@@ -7,7 +7,9 @@ export const ContactWrapper = styled.div`
 export const Image = styled.img`
   max-width: 120px;
   margin: 0 auto;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
+  border-radius:10px;
+ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 `;
 
 export const Technologies = styled.div`

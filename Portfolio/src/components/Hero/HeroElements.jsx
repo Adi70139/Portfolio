@@ -80,9 +80,9 @@ export const Image = styled.img`
   height: 300px;
   width: auto;
   border-radius:50px;
-  -webkit-box-shadow: 0px 1px 141px 1px rgba(250,187,250,1);
-  -moz-box-shadow: 0px 1px 141px 1px rgba(250,187,250,1);
-  box-shadow: 0px 1px 141px 1px rgba(250,187,250,1);
+  -webkit-box-shadow: 10px 10px 166px -15px rgba(217,190,128,1);
+-moz-box-shadow: 10px 10px 166px -15px rgba(217,190,128,1);
+box-shadow: 10px 10px 166px -15px rgba(217,190,128,1);
 `;
 
 const ScrollAnimation = keyframes`

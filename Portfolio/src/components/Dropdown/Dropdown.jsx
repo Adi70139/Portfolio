@@ -89,8 +89,8 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
       <button 
             onClick={() => window.open('./assets/Aditya_Profile.pdf')} 
-            style={{ padding: '15px', cursor: 'pointer', borderRadius:'20px', border:'1px solid darkblue',
-                fontWeight:'bold'
+            style={{ padding: '15px', cursor: 'pointer', borderRadius:'20px', border:'1px solid brown',
+                fontWeight:'bold',backgroundColor:'#D8D2C2'
             }}
           >
             Resume
