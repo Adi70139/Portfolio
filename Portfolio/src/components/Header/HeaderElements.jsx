@@ -65,7 +65,7 @@ export const NavBtn = styled.nav`
      padding: 15px;
      cursor: pointer;
      border-radius:40px;
-     fontWeight: bolder;
+     font-weight: bolder;
      &:hover {
        background-color:#D8D2C2;
     }
