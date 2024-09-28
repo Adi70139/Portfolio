@@ -88,7 +88,7 @@ function Dropdown({ isOpen, toggle }) {
       </NavMenu>
       <NavBtn onClick={toggle}>
       <button 
-            onClick={() => window.open('./assets/Aditya_Profile.pdf')} 
+            onClick={() => window.open('https://drive.google.com/drive/folders/1OmmbExeBSo-XBgKmIk04neODXw2tD5O-?usp=sharing')} 
             style={{ padding: '15px', cursor: 'pointer', borderRadius:'20px', border:'1px solid brown',
                 fontWeight:'bold',backgroundColor:'#D8D2C2'
             }}

@@ -23,7 +23,7 @@ const Header = ({ toggle }) => {
         </NavMenu>
         <NavBtn>
         <button 
-            onClick={() => window.open('./assets/Aditya_Profile.pdf')} 
+            onClick={() => window.open('https://drive.google.com/drive/folders/1OmmbExeBSo-XBgKmIk04neODXw2tD5O-?usp=sharing')} 
 
           >
             Resume
