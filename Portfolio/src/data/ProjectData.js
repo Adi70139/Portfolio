@@ -22,7 +22,7 @@ export const ProjectList = [
     description: "An email dashboard where we can view,delete and reply to emails.",
     tech_stack: "Auth0, React, Javascript, Tailwind CSS",
     github_url: "https://github.com/Adi70139/OneBox",
-    demo_url: "one-box-reactinbox.vercel.app",
+    demo_url: "https://one-box-reactinbox.vercel.app",
   },
   {
     img: "./assets/SassySpicy.png",
