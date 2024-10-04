@@ -75,4 +75,13 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
     name: "Responsive",
   },
+  {
+    img: "https://www.vectorlogo.zone/logos/java/java-horizontal.svg",
+    name: "Java",
+  },
+  {
+    img: "https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg",
+    name: "NodeJS",
+  },
+
 ];
