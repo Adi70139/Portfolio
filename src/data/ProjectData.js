@@ -2,7 +2,7 @@
 export const ProjectList = [
   {
     img: "/assets/flowEngine.png",
-    title: "FreezerBurns",
+    title: "FlowEngine",
     description: "Designed and developed a scalable workflow orchestration platform capable of executing complex API and browser automation flows with dependency management, parallel processing, execution history, and real-time status tracking.",
     tech_stack: "Spring Boot, JPA, PostgreSQL, React, and Playwright",
     github_url: "https://github.com/Adi70139/FLOW-ENGINE",
